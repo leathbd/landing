@@ -1,0 +1,81 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: #373F51;
+  font-size: 15px;
+  font-family: 'Hind', sans-serif;
+}
+h1{
+  font-family: 'Acme', sans-serif;
+  color: #f75963;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: 'Hind', sans-serif;
+  color: #2CA4BF;
+  font-weight: 700;
+  font-size: 25px;
+
+}
+#banner{
+  text-align: center;
+  background-image: url(images/pexels2.jpeg);
+  background-size: cover;
+  padding: 200px;
+  margin-bottom: 50px;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 80px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+#banner a {
+  opacity:1;
+  font-size: 25px;
+}
+
+#footer{
+  padding: 30px;
+  background: #373F51;
+  color: lightgrey;
+}
+.card{
+  text-align: center;
+  padding: 20px;
+  font-weight: lighter;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+.card a{
+    opacity:1;
+  font-size: 25px;
+  text-align: center;
+
+}
+
+  #footer a {
+    padding:10px;
+    font-size: 25px;
+    color: white;
+}
+  #footer a:hover {
+    color: #2CA4BF;
+
+}
+  #formulaire{
+    margin-top:50px;
+    margin-bottom:40px;
+    padding:5px;
+    padding-top: 50px;
+
+
+
+
